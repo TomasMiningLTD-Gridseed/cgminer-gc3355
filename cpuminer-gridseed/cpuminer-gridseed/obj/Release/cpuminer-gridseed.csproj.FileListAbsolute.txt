@@ -1,0 +1,7 @@
+C:\Users\User\Source\Repos\cgminer-gc33552\cpuminer-gridseed\cpuminer-gridseed\bin\Release\cpuminer-gridseed.exe.config
+C:\Users\User\Source\Repos\cgminer-gc33552\cpuminer-gridseed\cpuminer-gridseed\bin\Release\cpuminer-gridseed.exe
+C:\Users\User\Source\Repos\cgminer-gc33552\cpuminer-gridseed\cpuminer-gridseed\bin\Release\cpuminer-gridseed.pdb
+C:\Users\User\Source\Repos\cgminer-gc33552\cpuminer-gridseed\cpuminer-gridseed\obj\Release\cpuminer-gridseed.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\cgminer-gc33552\cpuminer-gridseed\cpuminer-gridseed\obj\Release\cpuminer-gridseed.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\cgminer-gc33552\cpuminer-gridseed\cpuminer-gridseed\obj\Release\cpuminer-gridseed.exe
+C:\Users\User\Source\Repos\cgminer-gc33552\cpuminer-gridseed\cpuminer-gridseed\obj\Release\cpuminer-gridseed.pdb
